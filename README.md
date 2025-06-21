@@ -7,7 +7,7 @@
 * K-means clustering
 
 #### Documentation map:    
-                root/WWIIIsentimentAnalysis     
+                root/sentimentAnalysis     
                  ┣ README.md   
                  ┣ .gitignore   
                  ┣ 📂 OUTPUT/    
